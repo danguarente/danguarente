@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Dan
 
-<!--
-**danguarente/danguarente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** pursuing studies in **Cyber Criminology** and **Data Structures & Algorithms (DS&A)**. I enjoy applying classroom learning to hands-on projects, exploring backend as well as frontend development, and experimenting with networking systems.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Interests
+- **Languages:** Java, Python  
+- **Areas:** Backend development, networking, data structures & algorithms, discrete mathematics  
+- **Projects:** Labs and assignments from CS courses, including web apps and tools like a D&D character creator and a game project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Learning Goals
+- Strengthen understanding of backend architectures and network programming  
+- Apply DS&A concepts to solve real problems  
+- Gain experience through practical projects and collaborative coding
+- Learn Database Management
+- Expand Language Mastery (C++, C#, SQL)
+
+
+### 📫 Connect
+- 💻 [GitHub Repositories](#) *()*  
+- 🌐 [LinkedIn](#) *()*
+
+---
