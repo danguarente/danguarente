@@ -4,7 +4,7 @@ I'm a **Computer Science student** pursuing studies in **Cyber Criminology** and
 
 ### 🔧 Skills & Interests
 - **Languages:** Java, Python  
-- **Areas:** Backend development, networking, data structures & algorithms, discrete mathematics  
+- **Areas:** Backend development, information technology, networking, data structures & algorithms, discrete mathematics
 - **Projects:** Labs and assignments from CS courses, including web apps and tools like a D&D character creator and a game project.
 
 ### 💡 Learning Goals
@@ -13,6 +13,7 @@ I'm a **Computer Science student** pursuing studies in **Cyber Criminology** and
 - Gain experience through practical projects and collaborative coding
 - Learn Database Management
 - Expand Language Mastery (C++, C#, SQL)
+- Become proficient in Computer Graphics
 
 
 ### 📫 Connect
